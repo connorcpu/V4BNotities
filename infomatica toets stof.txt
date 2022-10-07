@@ -62,10 +62,9 @@
    .gif
    .
 11. BNF notatie
-   <berekening> ::= <getal>
-   <operator> <getal>
+   <berekening> ::= <getal> <operator> <getal>
       hier kan je gevraagd worden om de operator te definieëren
-   operators kunnen een +, -, (gedeeld door) of (keer teken)
+      dat zou zijn <operator> ::= +|-|/|*
    je krijgt een gramatie regel zeg of het klopt
    je krijgt een gramatica regel en breid hem uit aan de hand van mensentaal instructies die in de vraag staan
 
