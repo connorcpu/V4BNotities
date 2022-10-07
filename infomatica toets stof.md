@@ -1,0 +1,78 @@
+1 relatief en absoluut padnaam
+   relatief: van af de map waar je nu in zit: media\foto.png
+   absolut vanaf het begin: C:\gebruikers\ik\media\foto.png
+2. sneltoetsen: alleen de blauw sneltoetsen
+   computer vergendelen: CTRL + ALT + DELETE
+   kopieer naar klembord: CTRL + C
+   plak van klem bord : CTRL + V
+   knippen naar klembord: CTRL + X
+   schermafdruk maken : prtScn
+   zoeken op de pagina: CTRL + F
+   alles selecteren: CTRL + A
+   laatste actie ongedaan maken: CTRL + Z
+   inzoomen: CTRL + scroll
+   uitzoomen: CTRL + scroll
+   vernieuw webpagina
+3. auteurs rechten: mag ik iets wel of niet doen
+4. kan je paint 3D gebruiken
+5. bits en bytes
+   bit is een 1 of 2
+   byte is 8 bits
+   binair idere stap is x2
+   hexadecimaal idere stap is x16
+      1=1
+      2=2
+      3=3
+      4=4
+      5=5
+      6=6
+      7=7
+      8=8
+      9=9
+      10=A
+      11=B
+      12=C
+      13=D
+      14=E
+      15=F
+   decimaal ideree stap is x10 (dit is het nomale stelsel)
+   ocaal hoeft niet
+6. ascii en unicode
+   je krijgt een tabel die moet je kunnen gebruiken
+   ascii codes zijn altijd 1 byte
+   unicode is 4 bytes
+7. kleurmoddellen
+   wat is het RGB kleurmodel
+   waar staan de letters RGB voor
+   een RGB code bestaat uit 3 bytes en iedere byte is zijn eigen kleur
+8. compressie
+   het verschil tussen lossy and lossless compresie
+      lossy gooit veel data weg
+      lossless gooit GEEN data weg
+9. bytes
+   1 byte = 8 bits
+   1 kilobyte = 1024 bytes
+   1 megabyte = 1024 kilobytes
+   1 gigabyte = 1024 megabytes
+   terrabyte of groter hoef je niet te weten maar je kan het patroon zien
+10. bestands formaten
+   .txt een textbestand zonder opmaak
+   .jpg
+   .png
+   .gif
+   .
+11. BNF notatie
+   <berekening> ::= <getal>
+   <operator> <getal>
+      hier kan je gevraagd worden om de operator te definieëren
+   operators kunnen een +, -, (gedeeld door) of (keer teken)
+   je krijgt een gramatie regel zeg of het klopt
+   je krijgt een gramatica regel en breid hem uit aan de hand van mensentaal instructies die in de vraag staan
+
+geen grafische rekenmachine
+
+decimaal | hexadecimaal | binair
+---------|--------------|--------------
+  34     |     22       | 00100010
+ 846     |     34E      | 001101001110
+  75     |     4B       | 01001011
